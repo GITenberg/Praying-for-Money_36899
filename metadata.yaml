@@ -1,0 +1,35 @@
+_repo: Praying-for-Money_36899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36899-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: Russell Conwell was an influential and highly successful Baptist minister
+  who introduced ideas about prosperity and abundance that were, at the time, highly
+  controversial in the world of Christianity. Contrary to then-popular opinion, Conwell
+  believed that Christians and other spiritually-minded people had a duty to capitalize
+  on their divinely given gifts to become wealthy. In the remarkably popular volume
+  Praying for Money, Conwell addresses this topic in detail and provides some ...
+gutenberg_issued: '2011-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prayer'
+- !lcc 'BV'
+tableOfContents: Spiritual telepathy -- Day of Pentecost -- Axioms -- Praying for
+  money -- Unanswered prayers -- Prayer for others -- Forms of prayer.
+title: Praying for Money
+url: http://www.gutenberg.org/ebooks/36899
